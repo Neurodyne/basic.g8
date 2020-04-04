@@ -1,1 +1,2 @@
-# basic.g8
+# Basic Template
+Simplest project template
